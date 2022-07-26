@@ -71,4 +71,4 @@ Then write this command to launch RVis program
 
 ```roslaunch robot_arm_pkg check_motors.launch```
 
-###  The packeges are installed then we can launch RViz
+###  The packeges are installed and we can launch RViz
